@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  padding: 12px;
+  margin: 12px;
+}
+canvas {
+  background: rgb(252, 247, 205);
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  color: #601260;
+  letter-spacing: 6px;
+  font-size: 48px;
+}
+canvas {
+  border: 1px solid rgb(222, 217, 175);
+}
